@@ -1,0 +1,6 @@
+
+	conda create -n YOUR_ENV_NAME numpy
+
+and for some reason you have to specify at least one package
+
+	source activate YOUR_ENV_NAME
